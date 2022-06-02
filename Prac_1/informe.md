@@ -32,12 +32,12 @@ La duración del loop es de 2 segundos.
 
 ## Diagrama de flujos
 
-![DF](PlatformIO\Projects\Prac_1/../../../DF.png)
+![DF](DF.png)
 
 ---
 ## Diagrama de tiempo
 
-![DT](Documents\PlatformIO\Projects\Prac_1/../../../../DT.PNG)
+![DT](DT.PNG)
 
 
 
